@@ -32,9 +32,9 @@ def main(argv1,argv2):
 
 if __name__=="__main__": 
 	print '*********************************************'
-	print '* If you want to search the lyricsfinder,   *'
-	print '* Usage: python lyricsfinder.py find Ma-yu  *'
+	print '* If you want to search the lyrics,         *'
+	print '* Usage: python mojimLyrics.py find Ma-yu   *'
 	print '* If you want to download it,               *'            
-	print '* Usage: python lyricsfinder.py download url*'
+	print '* Usage: python mojimLyrics.py download url *'
 	print '*********************************************'
 	main(sys.argv[1],sys.argv[2])
